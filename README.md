@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of the project
-The purpose of the project is to create a webpage using JavaScript and HTML to provide an in-depth data analysis of UFO sightings by allowing users to filter for multiple criteria (date, city, state, country, and shape) at the same time.
+The purpose of the project is to create a webpage using JavaScript and HTML to provide an in-depth analysis of UFO sightings by allowing users to filter for multiple criteria (date, city, state, country, and shape) at the same time.
 
 ## Results
 1. Four full-resolution Mars hemisphere image URLs and titles were scraped from the Mars website.  
