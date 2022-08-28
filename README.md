@@ -6,7 +6,7 @@ The purpose of the project is to create a webpage using JavaScript and HTML to p
 1. This is the screenshot of our webpage with table filters. 
 ![ufo_webpage](Resources/ufo_webpage.png)
 
-2. Our webpage can display the UFO sightings that have been reported around the world. You can search for UFO sightings by inputing one or more combined criteria into the filters: date, city, state, country, and shape. The table will filter the results accordingly.Also, clicking on "UFO sightings" at the top left corner will reset the table by clearing out all previous filters.  Below is an example showing the search results for the UFO sightings recorded at the state of Texas, US. 
+2. Our webpage can display the UFO sightings that have been reported around the world. You can search for UFO sightings by inputing one or more combined criteria into the filters: date, city, state, country, and shape. The table will filter the results accordingly.  Also, clicking on "UFO sightings" at the top left corner will reset the table by clearing out all previous filters.  Below is an example showing the search results for the UFO sightings recorded at the state of Texas, US. 
 ![Texas_results](Resources/tx_results.png)
 
 ## Summary
